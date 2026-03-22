@@ -12,7 +12,7 @@ I wear all sponsored gear during rides at the farm and share photos online.
 
 ## Website
 The website is built with HTML, CSS, and JS, and is hosted on GitHub Pages:  
-[https://your-username.github.io/gabe-rides](https://your-username.github.io/gabe-rides)
+[https://lol-lab48.github.io/dirt-bike-sponsorship/](https://lol-lab48.github.io/dirt-bike-sponsorship/)
 
 ## Contact
 Email me at: [Gabe.karekinian@gmail.com](mailto:Gabe.karekinian@gmail.com)
